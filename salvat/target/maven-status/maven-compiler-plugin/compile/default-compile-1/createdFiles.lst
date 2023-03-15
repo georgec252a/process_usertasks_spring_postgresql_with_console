@@ -1,0 +1,13 @@
+org/kie/kogito/app/RuleConfig.class
+org/drools/project/model/ProjectRuntime.class
+org/kie/kogito/app/Application.class
+org/kie/kogito/app/GlobalObjectMapper.class
+org/kie/kogito/app/Processes.class
+org/kie/kogito/app/GlobalObjectMapper$1.class
+org/kie/kogito/app/RuleUnits.class
+org/kie/kogito/app/ProcessConfig.class
+org/kie/kogito/app/ApplicationConfig.class
+org/kie/kogito/app/ProcessServiceProducer.class
+org/kie/kogito/app/ConfigBean.class
+org/drools/project/model/ProjectModel.class
+org/kie/kogito/app/ProcessCloudEventMetaFactory.class
